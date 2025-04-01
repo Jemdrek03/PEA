@@ -1,0 +1,10 @@
+# ninja log v6
+10	672	7652182285193558	AntColony/CMakeFiles/AntColony.dir/DataSaver.cpp.obj	574591e1e9fe41ed
+14	1383	7652182285223986	AntColony/CMakeFiles/AntColony.dir/AntSearch.cpp.obj	cfccb104bc3798e3
+7	788	7652182285159589	AntColony/CMakeFiles/AntColony.dir/DataReader.cpp.obj	82d7a1fdad5ae89e
+1043	1673	7652319852971640	AntColony/AntColony.exe	34cb53524ba572f7
+90	1042	7652319843439228	AntColony/CMakeFiles/AntColony.dir/main.cpp.obj	2baf7a8c9e7a4817
+17	995	7652182285262775	AntColony/CMakeFiles/AntColony.dir/testing.cpp.obj	5c41766151021b7e
+3	395	7652322229077994	build.ninja	e395c1e09d1ce6ad
+38	915	7652322230330620	AntColony/CMakeFiles/AntColony.dir/main.cpp.obj	2baf7a8c9e7a4817
+916	1436	7652322239098224	AntColony/AntColony.exe	34cb53524ba572f7

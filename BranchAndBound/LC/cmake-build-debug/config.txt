@@ -1,0 +1,6 @@
+inputFile data.txt
+showProgress 1
+maxIterations 100
+numTrials 21474
+numTries 100
+howBig 10

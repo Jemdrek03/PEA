@@ -1,0 +1,78 @@
+Plik: data.txt
+Liczba wierzcholkow: 9
+Minimalny koszt: 242
+Najlepsza sciezka: 0 4 3 5 6 1 2 7 8 0 
+Plik: data.txt Liczba wierzcholkow: 12 Minimalny koszt: 149 Czas: 140180 Najlepsza sciezka: 0 7 8 1 3 4 5 6 11 10 9 2 0 
+Plik: data.txt Liczba wierzcholkow: 9 Minimalny koszt: 190 Czas: 121.17 Najlepsza sciezka: 0 8 5 4 7 3 6 2 1 0 
+Plik: data.txt Liczba wierzcholkow: 9 Minimalny koszt: 191 Czas: 119.264 Najlepsza sciezka: 0 4 5 3 6 1 8 2 7 0 
+Plik: data.txt Liczba wierzcholkow: 9 Minimalny koszt: 191 Czas: 119.138 Najlepsza sciezka: 0 4 5 3 6 1 8 2 7 0 
+Plik: data.txt Liczba wierzcholkow: 9 Minimalny koszt: 191 Czas: 117.549 Najlepsza sciezka: 0 4 5 3 6 1 8 2 7 0 
+Plik: data.txt Liczba wierzcholkow: 9 Minimalny koszt: 191 Czas: 121.528 Najlepsza sciezka: 0 4 5 3 6 1 8 2 7 0 
+Plik: data.txt Liczba wierzcholkow: 9 Minimalny koszt: 191 Czas: 118.001 Najlepsza sciezka: 0 4 5 3 6 1 8 2 7 0 
+Plik: data.txt Liczba wierzcholkow: 9 Minimalny koszt: 191 Czas: 117.491 Najlepsza sciezka: 0 4 5 3 6 1 8 2 7 0 
+Plik: data.txt Liczba wierzcholkow: 9 Minimalny koszt: 191 Czas: 117.714 Najlepsza sciezka: 0 4 5 3 6 1 8 2 7 0 
+Plik: data.txt Liczba wierzcholkow: 9 Minimalny koszt: 191 Czas: 117.737 Najlepsza sciezka: 0 4 5 3 6 1 8 2 7 0 
+Plik: data.txt Liczba wierzcholkow: 9 Minimalny koszt: 151 Czas: 117.603 Najlepsza sciezka: 0 6 3 7 2 1 5 8 4 0 
+Plik: data.txt Liczba wierzcholkow: 10 Minimalny koszt: 130 Czas: 1127.46 Najlepsza sciezka: 0 2 9 6 7 8 4 1 5 3 0 
+Plik: data.txt Liczba wierzcholkow: 10 Minimalny koszt: 148 Czas: 1121.53 Najlepsza sciezka: 0 6 8 2 1 9 7 4 3 5 0 
+Plik: data.txt Liczba wierzcholkow: 10 Minimalny koszt: 107 Czas: 1115.85 Najlepsza sciezka: 0 5 3 9 7 4 1 6 8 2 0 
+Plik: data.txt Liczba wierzcholkow: 10 Minimalny koszt: 103 Czas: 1119.12 Najlepsza sciezka: 0 9 4 3 2 6 8 1 5 7 0 
+Plik: data.txt Liczba wierzcholkow: 10 Minimalny koszt: 174 Czas: 1119.91 Najlepsza sciezka: 0 6 9 2 5 1 8 3 7 4 0 
+Plik: data.txt Liczba wierzcholkow: 10 Minimalny koszt: 129 Czas: 1121.29 Najlepsza sciezka: 0 1 5 3 9 6 2 7 4 8 0 
+Plik: data.txt Liczba wierzcholkow: 10 Minimalny koszt: 131 Czas: 1152.21 Najlepsza sciezka: 0 9 7 5 4 2 3 6 1 8 0 
+Plik: data.txt Liczba wierzcholkow: 10 Minimalny koszt: 159 Czas: 1126.14 Najlepsza sciezka: 0 1 9 7 3 2 6 4 5 8 0 
+Plik: data.txt Liczba wierzcholkow: 10 Minimalny koszt: 165 Czas: 1120.85 Najlepsza sciezka: 0 5 7 6 3 4 8 9 2 1 0 
+Plik: data.txt Liczba wierzcholkow: 10 Minimalny koszt: 135 Czas: 1128.75 Najlepsza sciezka: 0 2 5 3 4 8 6 7 1 9 0
+
+Plik: data.txt Liczba wierzcholkow: 10 Minimalny koszt: 167 Czas: 1099.66 Najlepsza sciezka: 0 7 5 1 4 6 2 8 3 9 0 
+Plik: data.txt Liczba wierzcholkow: 10 Minimalny koszt: 119 Czas: 1127.23 Najlepsza sciezka: 0 2 5 7 8 4 3 1 9 6 0 
+Plik: data.txt Liczba wierzcholkow: 10 Minimalny koszt: 107 Czas: 1120.44 Najlepsza sciezka: 0 7 1 8 5 6 2 3 4 9 0 
+Plik: data.txt Liczba wierzcholkow: 10 Minimalny koszt: 152 Czas: 1090.69 Najlepsza sciezka: 0 8 1 5 9 6 7 2 3 4 0 
+Plik: data.txt Liczba wierzcholkow: 10 Minimalny koszt: 135 Czas: 1087.3 Najlepsza sciezka: 0 3 9 2 5 4 6 1 8 7 0 
+Plik: data.txt Liczba wierzcholkow: 10 Minimalny koszt: 194 Czas: 1081.94 Najlepsza sciezka: 0 3 4 1 5 2 9 8 7 6 0 
+Plik: data.txt Liczba wierzcholkow: 10 Minimalny koszt: 218 Czas: 1084.88 Najlepsza sciezka: 0 2 7 4 6 3 5 1 8 9 0 
+Plik: data.txt Liczba wierzcholkow: 10 Minimalny koszt: 172 Czas: 1084.3 Najlepsza sciezka: 0 5 9 2 7 3 6 4 1 8 0 
+Plik: data.txt Liczba wierzcholkow: 10 Minimalny koszt: 184 Czas: 1082.19 Najlepsza sciezka: 0 2 5 4 8 6 7 1 9 3 0 
+Plik: data.txt Liczba wierzcholkow: 10 Minimalny koszt: 139 Czas: 1085.3 Najlepsza sciezka: 0 6 9 1 7 5 8 3 2 4 0
+
+Plik: data.txt Liczba wierzcholkow: 10 Minimalny koszt: 257 Czas: 1089.95 Najlepsza sciezka: 0 4 6 7 9 8 3 2 1 5 0 
+Plik: data.txt Liczba wierzcholkow: 10 Minimalny koszt: 254 Czas: 1107.47 Najlepsza sciezka: 0 4 6 8 2 1 3 9 7 5 0 
+Plik: data.txt Liczba wierzcholkow: 10 Minimalny koszt: 196 Czas: 1097.03 Najlepsza sciezka: 0 6 1 5 9 8 3 2 4 7 0 
+Plik: data.txt Liczba wierzcholkow: 10 Minimalny koszt: 159 Czas: 1085.53 Najlepsza sciezka: 0 3 8 4 1 7 6 2 9 5 0 
+Plik: data.txt Liczba wierzcholkow: 10 Minimalny koszt: 240 Czas: 1083.94 Najlepsza sciezka: 0 3 8 6 1 7 4 5 2 9 0 
+Plik: data.txt Liczba wierzcholkow: 10 Minimalny koszt: 220 Czas: 1091.44 Najlepsza sciezka: 0 2 3 8 9 7 1 5 4 6 0 
+Plik: data.txt Liczba wierzcholkow: 10 Minimalny koszt: 223 Czas: 1078.28 Najlepsza sciezka: 0 3 2 5 4 7 6 1 9 8 0 
+Plik: data.txt Liczba wierzcholkow: 10 Minimalny koszt: 217 Czas: 1082.42 Najlepsza sciezka: 0 7 3 8 6 2 1 5 4 9 0 
+Plik: data.txt Liczba wierzcholkow: 10 Minimalny koszt: 136 Czas: 1082.94 Najlepsza sciezka: 0 3 7 9 1 4 5 2 8 6 0 
+Plik: data.txt Liczba wierzcholkow: 10 Minimalny koszt: 189 Czas: 1085.99 Najlepsza sciezka: 0 6 1 2 9 4 5 8 3 7 0
+
+Plik: data.txt Liczba wierzcholkow: 11 Minimalny koszt: 176 Czas: 13636.6 Najlepsza sciezka: 0 9 8 7 1 2 6 3 5 4 10 0 
+Plik: data.txt Liczba wierzcholkow: 11 Minimalny koszt: 189 Czas: 11612.4 Najlepsza sciezka: 0 1 5 8 7 10 9 4 6 2 3 0 
+Plik: data.txt Liczba wierzcholkow: 11 Minimalny koszt: 122 Czas: 11722.7 Najlepsza sciezka: 0 4 8 6 7 2 1 10 3 9 5 0 
+Plik: data.txt Liczba wierzcholkow: 11 Minimalny koszt: 125 Czas: 11751.3 Najlepsza sciezka: 0 2 6 8 3 5 1 9 4 7 10 0 
+Plik: data.txt Liczba wierzcholkow: 11 Minimalny koszt: 127 Czas: 11768.6 Najlepsza sciezka: 0 4 5 8 1 3 7 2 9 6 10 0 
+Plik: data.txt Liczba wierzcholkow: 11 Minimalny koszt: 287 Czas: 12065.2 Najlepsza sciezka: 0 3 8 5 10 2 6 4 1 9 7 0 
+Plik: data.txt Liczba wierzcholkow: 11 Minimalny koszt: 167 Czas: 11654.8 Najlepsza sciezka: 0 4 5 1 6 10 2 7 8 3 9 0 
+Plik: data.txt Liczba wierzcholkow: 11 Minimalny koszt: 208 Czas: 11801.3 Najlepsza sciezka: 0 6 8 3 2 9 5 4 10 1 7 0 
+Plik: data.txt Liczba wierzcholkow: 11 Minimalny koszt: 213 Czas: 11663 Najlepsza sciezka: 0 8 6 4 2 5 1 3 7 9 10 0 
+Plik: data.txt Liczba wierzcholkow: 11 Minimalny koszt: 181 Czas: 11629 Najlepsza sciezka: 0 2 9 7 5 3 8 1 4 6 10 0 
+Plik: data.txt Liczba wierzcholkow: 12 Minimalny koszt: 229 Czas: 134556 Najlepsza sciezka: 0 4 10 3 6 5 8 7 1 2 11 9 0 
+Plik: data.txt Liczba wierzcholkow: 12 Minimalny koszt: 154 Czas: 134841 Najlepsza sciezka: 0 10 4 2 5 7 8 9 6 1 3 11 0 
+Plik: data.txt Liczba wierzcholkow: 12 Minimalny koszt: 221 Czas: 135194 Najlepsza sciezka: 0 2 5 10 8 4 1 11 6 9 3 7 0 
+Plik: data.txt Liczba wierzcholkow: 12 Minimalny koszt: 123 Czas: 135636 Najlepsza sciezka: 0 1 10 9 8 6 2 5 11 7 3 4 0 
+Plik: data.txt Liczba wierzcholkow: 12 Minimalny koszt: 228 Czas: 135931 Najlepsza sciezka: 0 3 6 8 5 2 1 9 10 7 11 4 0 
+Plik: data.txt Liczba wierzcholkow: 12 Minimalny koszt: 149 Czas: 136249 Najlepsza sciezka: 0 1 2 7 3 8 11 4 9 10 6 5 0 
+Plik: data.txt Liczba wierzcholkow: 12 Minimalny koszt: 167 Czas: 140653 Najlepsza sciezka: 0 5 2 4 6 9 7 10 3 1 11 8 0 
+Plik: data.txt Liczba wierzcholkow: 12 Minimalny koszt: 141 Czas: 140474 Najlepsza sciezka: 0 6 5 11 8 3 4 9 7 1 2 10 0 
+Plik: data.txt Liczba wierzcholkow: 12 Minimalny koszt: 207 Czas: 142246 Najlepsza sciezka: 0 4 8 6 5 10 9 2 7 1 3 11 0 
+Plik: data.txt Liczba wierzcholkow: 12 Minimalny koszt: 148 Czas: 147449 Najlepsza sciezka: 0 8 7 1 11 9 5 6 4 2 3 10 0 
+Plik: data.txt Liczba wierzcholkow: 12 Minimalny koszt: 217 Czas: 111.534 Najlepsza sciezka: 0 4 2 5 8 11 3 9 7 1 10 6 0 
+Plik: data.txt Liczba wierzcholkow: 12 Minimalny koszt: 217 Czas: 106.296 Najlepsza sciezka: 0 4 2 5 8 11 3 9 7 1 10 6 0 
+Plik: data.txt Liczba wierzcholkow: 12 Minimalny koszt: 217 Czas: 107.022 Najlepsza sciezka: 0 4 2 5 8 11 3 9 7 1 10 6 0 
+Plik: data.txt Liczba wierzcholkow: 12 Minimalny koszt: 217 Czas: 107.585 Najlepsza sciezka: 0 4 2 5 8 11 3 9 7 1 10 6 0 
+Plik: data.txt Liczba wierzcholkow: 12 Minimalny koszt: 217 Czas: 104.961 Najlepsza sciezka: 0 4 2 5 8 11 3 9 7 1 10 6 0 
+Plik: data.txt Liczba wierzcholkow: 12 Minimalny koszt: 239 Czas: 1683.62 Najlepsza sciezka: 0 7 5 6 4 2 8 1 3 11 10 9 0 
+Plik: data.txt Liczba wierzcholkow: 12 Minimalny koszt: 201 Czas: 2.9306 Najlepsza sciezka: 0 2 9 1 11 8 3 5 4 10 6 7 0 
+Plik: data.txt Liczba wierzcholkow: 12 Minimalny koszt: 201 Czas: 2.9152 Najlepsza sciezka: 0 2 9 1 11 8 3 5 4 10 6 7 0 
+Plik: data.txt Liczba wierzcholkow: 12 Minimalny koszt: 201 Czas: 2.9094 Najlepsza sciezka: 0 2 9 1 11 8 3 5 4 10 6 7 0 
+Plik: data.txt Liczba wierzcholkow: 12 Minimalny koszt: 201 Czas: 2.9587 Najlepsza sciezka: 0 2 9 1 11 8 3 5 4 10 6 7 0 

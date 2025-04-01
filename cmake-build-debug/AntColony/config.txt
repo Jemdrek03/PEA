@@ -1,0 +1,12 @@
+inputFile data.txt
+numTries 1
+howBig 171
+opt 2755
+satisfaction 0.9
+numAnts 10
+evaporationRate 0.7
+alpha 1.0
+beta 20.0
+pheromoneMin 2.0
+pheromoneMax 5.0
+numIterations 2500

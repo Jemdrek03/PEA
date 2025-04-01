@@ -1,0 +1,6 @@
+inputFile data.txt
+optimalValue 10
+maxRunTimeMinutes 30
+thresholdValue 1.10
+numTries 100
+howBig 10

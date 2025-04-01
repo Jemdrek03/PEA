@@ -1,0 +1,3 @@
+C:/Users/gagat/Pulpit/PEA_Second_Half/PEA_LC/cmake-build-debug/CMakeFiles/PEA_LC.dir
+C:/Users/gagat/Pulpit/PEA_Second_Half/PEA_LC/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gagat/Pulpit/PEA_Second_Half/PEA_LC/cmake-build-debug/CMakeFiles/rebuild_cache.dir

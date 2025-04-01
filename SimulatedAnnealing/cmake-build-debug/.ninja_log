@@ -1,0 +1,14 @@
+# ninja log v6
+1	485	1734618721369643018	CMakeFiles/SimulatedAnnealingop.dir/DataSaver.cpp.o	8ac9f35d629f8760
+1	508	1734618721369332809	CMakeFiles/SimulatedAnnealingop.dir/DataReader.cpp.o	b8f9cff056eb94cc
+2	514	1734618721370189310	CMakeFiles/SimulatedAnnealingop.dir/Generate.cpp.o	2051e318e8c018a4
+1	515	1734618721370067060	CMakeFiles/SimulatedAnnealingop.dir/NN.cpp.o	d142daf46e6163de
+0	550	1734618721368732893	CMakeFiles/SimulatedAnnealingop.dir/main.cpp.o	9d929c61f77d7753
+1	557	1734618721369927518	CMakeFiles/SimulatedAnnealingop.dir/SimulatedAnnealing.cpp.o	1529307ec0c03afb
+557	643	1734618721925339656	SimulatedAnnealingop	66f2907ee934ea66
+5	420	1734620241655356562	CMakeFiles/SimulatedAnnealingop.dir/main.cpp.o	9d929c61f77d7753
+420	453	1734620242070297205	SimulatedAnnealingop	66f2907ee934ea66
+4	420	1734620251927423000	CMakeFiles/SimulatedAnnealingop.dir/main.cpp.o	9d929c61f77d7753
+420	453	1734620252343322350	SimulatedAnnealingop	66f2907ee934ea66
+9	600	1735231935066256270	CMakeFiles/SimulatedAnnealingop.dir/main.cpp.o	9d929c61f77d7753
+600	744	1735231935657590085	SimulatedAnnealingop	66f2907ee934ea66

@@ -1,0 +1,3 @@
+C:/Users/gagat/CLionProjects/SimulatedAnnealingop/cmake-build-debug/CMakeFiles/SimulatedAnnealingop.dir
+C:/Users/gagat/CLionProjects/SimulatedAnnealingop/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gagat/CLionProjects/SimulatedAnnealingop/cmake-build-debug/CMakeFiles/rebuild_cache.dir

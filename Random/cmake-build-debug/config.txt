@@ -1,0 +1,8 @@
+inputFile data.txt
+showProgress 0
+numTrials 200000000
+optimalValue 200
+maxRunTimeMinutes 30
+thresholdValue 1.15
+numTries 100
+howBig 5

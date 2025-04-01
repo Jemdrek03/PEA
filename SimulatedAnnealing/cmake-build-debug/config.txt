@@ -1,0 +1,17 @@
+inputFile data.txt
+showProgress 1
+maxIterations 100
+numTrials 10000
+numTries 10
+howBig 3
+Which 3
+Temperature 8000
+endTemperature 1e-9
+maxNoImprove 95000000
+Decrease 0.99
+noImproveLimit 3000
+readyResult 0
+satisfaction 20
+opt 100
+decreaseType 1
+whichOpt 3

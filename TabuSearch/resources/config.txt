@@ -1,0 +1,10 @@
+inputFile data2.txt
+maxIterations 95000000
+numTries 1
+howBig 171
+Which 3
+tabuListSize 42
+satisfaction 27
+opt 2755
+whichOpt 2
+readyResult 1

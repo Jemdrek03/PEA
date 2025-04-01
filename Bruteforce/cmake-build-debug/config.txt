@@ -1,0 +1,4 @@
+inputFile data.txt
+showProgress 0
+numTries 100
+howBig 10

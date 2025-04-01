@@ -1,0 +1,375 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "SimulatedAnnealing",
+					"jsonFile" : "directory-SimulatedAnnealing-Debug-652f9504d0a187529540.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "SimulatedAnnealing",
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"build" : "TabuSearch",
+					"jsonFile" : "directory-TabuSearch-Debug-b32b7be6e18adc8877c2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "TabuSearch",
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"build" : "AntColony",
+					"jsonFile" : "directory-AntColony-Debug-684a646277e0557c8118.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "AntColony",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "BranchAndBound/BFS",
+					"jsonFile" : "directory-BranchAndBound.BFS-Debug-7b2f4d590a583e33ffbf.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 4,
+					"source" : "BranchAndBound/BFS",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "BranchAndBound/DFS",
+					"jsonFile" : "directory-BranchAndBound.DFS-Debug-47272b5d72ab04071812.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 5,
+					"source" : "BranchAndBound/DFS",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "BranchAndBound/LC",
+					"jsonFile" : "directory-BranchAndBound.LC-Debug-a1fc939e64b319f3ce80.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 6,
+					"source" : "BranchAndBound/LC",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "Bruteforce",
+					"jsonFile" : "directory-Bruteforce-Debug-464e669e9d618cc902e9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 7,
+					"source" : "Bruteforce",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "NN",
+					"jsonFile" : "directory-NN-Debug-757b41b91e88df05822d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 8,
+					"source" : "NN",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "Random",
+					"jsonFile" : "directory-Random-Debug-45b4ee6706a9b403a522.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 9,
+					"source" : "Random",
+					"targetIndexes" : 
+					[
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PEA_EAO"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "SimulatedAnnealingop",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "TabuSearch",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "AntColony",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "PEA_BFS",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						5
+					],
+					"name" : "PEA_DFS",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						6
+					],
+					"name" : "PEA_LC",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						7
+					],
+					"name" : "PEA",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						8
+					],
+					"name" : "PEA_NN",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						9
+					],
+					"name" : "PEA_Random",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 3,
+					"id" : "AntColony::@0d966b13d5607ae6ab56",
+					"jsonFile" : "target-AntColony-Debug-97ab53a31bc5c5873301.json",
+					"name" : "AntColony",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "PEA::@2ca501f45db92550d188",
+					"jsonFile" : "target-PEA-Debug-af50f918ca349639fc49.json",
+					"name" : "PEA",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "PEA_BFS::@6c6a005dc02e2b7baf1f",
+					"jsonFile" : "target-PEA_BFS-Debug-c7cd21104c04609f9380.json",
+					"name" : "PEA_BFS",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "PEA_DFS::@6dc0871251710689df27",
+					"jsonFile" : "target-PEA_DFS-Debug-aa54410325a44e594565.json",
+					"name" : "PEA_DFS",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "PEA_LC::@2b6e6dc8e2c83fdb7d55",
+					"jsonFile" : "target-PEA_LC-Debug-aedb5b27061feebb319e.json",
+					"name" : "PEA_LC",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "PEA_NN::@65424abaf51de54b70f5",
+					"jsonFile" : "target-PEA_NN-Debug-d09390847fb41d19b452.json",
+					"name" : "PEA_NN",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "PEA_Random::@d88129868714f089b11c",
+					"jsonFile" : "target-PEA_Random-Debug-e5b5e8defe5205f02a0b.json",
+					"name" : "PEA_Random",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "SimulatedAnnealingop::@5582bffb741c183cd09f",
+					"jsonFile" : "target-SimulatedAnnealingop-Debug-2e986ae6e71bc9945a9f.json",
+					"name" : "SimulatedAnnealingop",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "TabuSearch::@44798faa02598e550924",
+					"jsonFile" : "target-TabuSearch-Debug-7d8dd2bfbe4913a5a542.json",
+					"name" : "TabuSearch",
+					"projectIndex" : 2
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/gagat/Pulpit/PEA_EAO/cmake-build-debug",
+		"source" : "C:/Users/gagat/Pulpit/PEA_EAO"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

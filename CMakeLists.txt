@@ -1,0 +1,12 @@
+cmake_minimum_required(VERSION 3.28)
+project(PEA_EAO)
+
+add_subdirectory(SimulatedAnnealing)
+add_subdirectory(TabuSearch)
+add_subdirectory(AntColony)
+add_subdirectory(BranchAndBound/BFS)
+add_subdirectory(BranchAndBound/DFS)
+add_subdirectory(BranchAndBound/LC)
+add_subdirectory(Bruteforce)
+add_subdirectory(NN)
+add_subdirectory(Random)

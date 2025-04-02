@@ -1,6 +1,8 @@
 # Efektywne Rozwiązywanie Problemu Komiwojażera (TSP)
 
 Projekt zrealizowany w ramach przedmiotu **Projektowanie Efektywnych Algorytmów** na Politechnice Wrocławskiej.
+Ważne info: Aktualnie proejkt został złożony "na szybko". Mianowicie w niektorych algorytmach może brakować plików configuracyjnych oraz pliku z danymi. Niektóre z nich zostały także lekko zmodyfikowane w celu testowania różnych 
+grafów oraz innych parametrów. Cała logika algorytmu jest jednak poprawna i zapraszam do ewentualnej analizy/zainspirowania się moimi implementacjami. Planuję poprawić i dodać wszystkie brakujące pliki, natomiast aktualnie przez ilość nowych projektów pozostawiam to repo w tym stanie. :3
 
 ## Autor
 
